@@ -1,0 +1,28 @@
+.header {
+    width:100%
+}
+.main {
+    width:100%
+}
+.cprojects-container {
+    width:100%;
+    padding: 30px;
+}
+.cprojects-panel {
+    max-width: 500px;
+    width: 100%;
+    background:lightgrey;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0 50px;
+}
+.cprojects-proj {
+    height:200px;
+    width: 400px;
+} 
+.footer {
+    max-height: 80px;
+}
+.footer-link {
+
+}
